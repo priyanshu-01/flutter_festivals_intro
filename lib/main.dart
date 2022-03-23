@@ -38,8 +38,8 @@ class MyApp extends StatelessWidget {
       // home: const CounterApp(
       //   title: "Counter app",
       // ),
-      // home: const WelocomePage(),
-      home: const AnimationsPage(),
+      home: HomePage(),
+      // home: const AnimationsPage(),
       // home: const MyHomePage(title: 'Flutter Demo Home Page'),
     );
   }
